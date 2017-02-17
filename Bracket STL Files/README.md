@@ -5,7 +5,7 @@ This folder contains the .stl files used in the HRC Model Set.
 ## The Parts 
 
 * "ChairBack" 
-	* refers to the L shaped connection piece which connects two perpendicular dowels
+	* refers to the L shaped connection piece which connects two perpendicular dowels and a plywood piece at its corner 
 * "ChairLeft"
 	* refers to the left-side bracket that connects the chair seat to the back left leg and left dowel of the seat back
 * "ChairRight"
