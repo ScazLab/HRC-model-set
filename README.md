@@ -27,6 +27,12 @@ Exclusive of the 3D printed brackets, all of the hardware of the HRC Model Set c
 ## CAD- 3D Modeling
 With access to the SolidWorks files, making adjustments to fit plywood and dowels of various lengths or widths requires a few simple steps.
 
+__Adding Plywood Thickness__
+
+![ExampleImage2](https://cloud.githubusercontent.com/assets/12373812/23572174/50f8ab50-003b-11e7-9cb4-f687dbdad2df.PNG)
+
+__Inserting a Fiduciary Marker__
+
 ![ExampleImage](https://cloud.githubusercontent.com/assets/4378663/23570411/0733191e-0032-11e7-8050-d8c79e5c967f.PNG)
 
 ## 3D Printing
