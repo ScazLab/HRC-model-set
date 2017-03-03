@@ -26,7 +26,7 @@ Exclusive of the 3D printed brackets, all of the hardware of the HRC Model Set c
 
 ## CAD- 3D Modeling
 With access to the SolidWorks files, making adjustments to fit plywood and dowels of various lengths or widths requires a few simple steps.
-![HowPlanesAreSeperated](https://github.com/ScazLab/HRC-model-set/blob/master/Images/HowPlanesAreSeperated.PNG =800x)
+
 
 <!-- Insert images of screenshots that show how to modify dowel diameter and plywood thickness. -->
 
