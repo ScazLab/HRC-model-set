@@ -26,6 +26,8 @@ Exclusive of the 3D printed brackets, all of the hardware of the HRC Model Set c
 
 ## CAD- 3D Modeling
 With access to the SolidWorks files, making adjustments to fit plywood and dowels of various lengths or widths requires a few simple steps.
+![HowPlanesAreSeperated](HRC-model-set/Images/HowPlanesAreSeperated.PNG)
+
 
 <!-- Insert images of screenshots that show how to modify dowel diameter and plywood thickness. -->
 
@@ -37,4 +39,4 @@ Below are some guidelines to use when printing out a file using some common 3D p
 
 ### [Dimension Elite](http://www.stratasys.com/~/media/Main/Files/Machine_Spec_Sheets/PSS_FDM_DimElite.pdf?la=en)
 
-### [Objet 30](http://www.stratasys.com/3d-printers/design-series/objet30?cid=70130000001stsN&utm_ad=Objet30&utm_source=google&utm_term=objet30&utm_campaign=Search+-+US+-+Brand&utm_medium=cpc&utm_content=sDBnZ7UQ1_dc%7Cpcrid%7C102344693641%7Cpkw%7Cobjet30%7Cpmt%7Cp%7C&gclid=CJ2l8qOBu9ICFZCFswodHTwPbg) 
+### [Objet 30](http://www.stratasys.com/3d-printers/design-series/objet30?cid=70130000001stsN&utm_ad=Objet30&utm_source=google&utm_term=objet30&utm_campaign=Search+-+US+-+Brand&utm_medium=cpc&utm_content=sDBnZ7UQ1_dc%7Cpcrid%7C102344693641%7Cpkw%7Cobjet30%7Cpmt%7Cp%7C&gclid=CJ2l8qOBu9ICFZCFswodHTwPbg)
