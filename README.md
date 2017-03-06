@@ -3,11 +3,12 @@ Model set for Human-Robot collaborative tasks
 
 ## Introduction
 
-	The Model Set for Human-Robot collaborative tasks consists of the following items :
-		* A series of eight 3D printed brackets
-		* Dowels
-		* Plywood
-		* Fasteners (Screws)
+The Model Set for Human-Robot collaborative tasks consists of the following items :
+
+ * A series of eight 3D printed brackets
+ * Dowels
+ * Plywood
+ * Fasteners (Screws)
 
 ## 3D Printed Brackets
 
@@ -31,7 +32,7 @@ __Adding Plywood Thickness__
 
 ![PlywoodThickness](https://cloud.githubusercontent.com/assets/12373812/23572174/50f8ab50-003b-11e7-9cb4-f687dbdad2df.PNG)
 
-To change the width of the insert for a piece of plywood of a different size, the model has been separated with a plane to extrude from. In the image above "Plane 3" is referenced off the face of the inside wall of the insert. By modifying the extrude feature "Boss-Extrude3" <!---double check ---> with the dimension of your piece of plywood, you will now have an insert that is compatible with your experiment. The rest of the features will update accordingly.
+To change the width of the insert for a piece of plywood of a different size, the model has been separated with a plane to extrude from. In the image above "Plane 3" is referenced off the face of the inside wall of the insert. By modifying the extrude feature "Boss-Extrude3" [**double check**] with the dimension of your piece of plywood, you will now have an insert that is compatible with your experiment. The rest of the features will update accordingly.
 
 __Changing Dowel Diameter__
 
@@ -54,7 +55,7 @@ Fiduciary markers can be a great asset to designing an HRC experiment because th
 
 To insert these files into your SolidWorks model, open your .dwg or .dxf file under file>open. You will be re-directed to the DWG/DXF wizard in which you can specify a series of import options like scale and origin of the image. You want to make sure to import the file as a 2D sketch in your part.
 
-In order to create the embeded feature, you may have to re-trace your fiduciary marker sketch using the "Convert Entities" tool. Then, highlight the dark areas of the marker and use the "Extruded Cut" feature to cut into your bracket enough to be able to distinguish the marker, but not too far as to cut through the wall of the bracket.
+In order to create the embedded feature, you may have to re-trace your fiduciary marker sketch using the "Convert Entities" tool. Then, highlight the dark areas of the marker and use the "Extruded Cut" feature to cut into your bracket enough to be able to distinguish the marker, but not too far as to cut through the wall of the bracket.
 
 __Cost Analysis__
 
