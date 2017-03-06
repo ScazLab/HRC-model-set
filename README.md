@@ -15,7 +15,7 @@ The Model Set for Human-Robot collaborative tasks consists of the following item
 The 3D Printed Brackets were designed with three main criteria in mind : re-use, replicability, and modularity.
 Each bracket was modeled in SolidWorks and then printed on a Dimension Elite FDM printer using ABS+ plastic.
 
-The `.stl` files and the SolidWorks files can be found in the `Bracket STL Files` and `Bracket SolidWorks Files` sub-folders respectively.
+The `.stl` files and the SolidWorks files can be found in the [`Bracket STL Files`](https://github.com/ScazLab/HRC-model-set/tree/master/Bracket%20STL%20Files) and [`Bracket SolidWorks Files`](https://github.com/ScazLab/HRC-model-set/tree/master/Bracket%20SolidWorks%20Files) sub-folders respectively.
 
 ## Hardware
 
