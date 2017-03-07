@@ -1,4 +1,4 @@
-# HRC-model-set
+# HRC Model Set
 _Model set for Human-Robot collaborative tasks_
 
 ## Introduction
