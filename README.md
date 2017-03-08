@@ -18,7 +18,7 @@ It is designed to be modular, extendable, and easy to distribute. All the conten
 ## 3D Printed Brackets
 
 The 3D Printed Brackets were designed with three main criteria in mind : re-use, replicability, and modularity.
-Each bracket was modeled in SolidWorks and then printed on a Dimension Elite FDM printer using ABS+ plastic.
+
 
 The `.stl` files and the SolidWorks files can be found in the [`Bracket STL Files`](https://github.com/ScazLab/HRC-model-set/tree/master/Bracket%20STL%20Files) and [`Bracket SolidWorks Files`](https://github.com/ScazLab/HRC-model-set/tree/master/Bracket%20SolidWorks%20Files) sub-folders respectively.
 
@@ -29,6 +29,24 @@ Exclusive of the 3D printed brackets, all of the hardware of the HRC Model Set c
 1. __Wooden Dowels__ In our experiments we used 1/2" (OD) dowels from [this]( https://www.amazon.com/gp/product/B00YDLVP9C/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) assorted value pack. You can also purchase the dowels [here](https://www.amazon.com/Wooden-Dowel-Rods-12-Bag/dp/B00XQI3NJS/ref=sr_1_2?ie=UTF8&qid=1488559469&sr=8-2&keywords=1%2F2%22+craft+dowel) if you do not want an assortment of sizes.
 2. __Plywood__ [These](https://www.amazon.com/gp/product/B00CQKYZPI/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) 12" x 12" plywood sheets were then cut on a laser cutter to size. To build the console, larger sheets found [here](https://www.amazon.com/Baltic-Birch-Plywood-Scroll-Woodpeckers/dp/B01MQTWKBX/ref=sr_1_1_m?s=arts-crafts&ie=UTF8&qid=1488566139&sr=1-1&keywords=24%22x24%22%2Bcraft%2Bplywood&th=1) can be used.
 3. __Screws__ #4 screws in 1/4" lengths can be found [here](https://www.amazon.com/gp/product/B01HAEX8C0/ref=oh_aui_search_detailpage?ie=UTF8&psc=1), and #4 screws in 1/2" lengths can be found [here](https://www.amazon.com/gp/product/B00OKIT234/ref=oh_aui_search_detailpage?ie=UTF8&psc=1). These screws are both Phillips head screws, however it is possible to find screws with different drive heads as well.
+
+## Example designs
+
+We present four prototypical objects built using different configurations of the hardware mentioned above.
+
+Our designs range from the most simple, the Table configuration, to quite complex, the Console configuration.
+
+Below are renderings of each design along with a bill of materials.
+
+![Table](https://cloud.githubusercontent.com/assets/12373812/23683629/0b698e6c-0368-11e7-8cdd-c7b93e4e4a9a.jpg)
+
+![Chair](https://cloud.githubusercontent.com/assets/12373812/23683588/d4976b34-0367-11e7-8ffe-7fc8ab9b6dd6.jpg)
+
+![Shelf](https://cloud.githubusercontent.com/assets/12373812/23683615/f7b5769c-0367-11e7-9f4d-f1979abac6a7.jpg)
+
+![Console](https://cloud.githubusercontent.com/assets/12373812/23683601/e2a5c1bc-0367-11e7-9647-fbce437b5b30.jpg)
+
+
 
 ## CAD- 3D Modeling
 With access to the SolidWorks files, making adjustments to fit plywood and dowels of various lengths or widths requires a few simple steps.
@@ -69,9 +87,23 @@ To be able to estimate the cost of producing one of the brackets using other man
 
 ## 3D Printing
 
+Each bracket was modeled in SolidWorks and then printed on a Dimension Elite FDM printer using ABS+ plastic. <!-- Insert settings -->
+
 Below are some guidelines to use when printing out a file using some common 3D printers:
 
+*Each print is of the “Top” bracket for comparison.*
+
 ### [MakerBot Replicator Gen. 5](https://www.makerbot.com/replicator/)
+
+
+![10mm](https://cloud.githubusercontent.com/assets/12373812/23683332/701683da-0366-11e7-8ba1-3ac8efa29b85.PNG)
+Using the above settings, the estimated print time is 2 hours and 12 minutes. The material usage is 15.11 grams.
+
+![20mm](https://cloud.githubusercontent.com/assets/12373812/23683341/7c1b8fb8-0366-11e7-82f6-870d0b399e3f.PNG)
+Using the above settings, the estimated print time is 1hour and 13 minutes. The material usage is 13.6 grams.
+
+In order to achieve a clean edge for the plywood to be inserted into the bracket, you may need to use pliers to get rid of the support material and use sandpaper to smooth down any remaining plastic.   
+
 
 ### [Dimension Elite](http://www.stratasys.com/~/media/Main/Files/Machine_Spec_Sheets/PSS_FDM_DimElite.pdf?la=en)
 
