@@ -99,10 +99,24 @@ Below are some guidelines to use when printing out a file using some common 3D p
 ![10mm](https://cloud.githubusercontent.com/assets/12373812/23683332/701683da-0366-11e7-8ba1-3ac8efa29b85.PNG)
 Using the above settings, the estimated print time is 2 hours and 12 minutes. The material usage is 15.11 grams.
 
+Diameter specified in the SW File: .127 cm  
+Diameter of actual printed bracket: .123 cm
+
+Distance of plywood insert in the SW File: .318 cm 	
+Distance of plywood insert of actual printed bracket: .302 cm
+
+
 ![20mm](https://cloud.githubusercontent.com/assets/12373812/23683341/7c1b8fb8-0366-11e7-82f6-870d0b399e3f.PNG)
 Using the above settings, the estimated print time is 1hour and 13 minutes. The material usage is 13.6 grams.
 
-In order to achieve a clean edge for the plywood to be inserted into the bracket, you may need to use pliers to get rid of the support material and use sandpaper to smooth down any remaining plastic.   
+Diameter specified in the SW File: .127 cm  
+Diameter of actual printed bracket: .122 cm
+
+Distance of plywood insert in the SW File: .318 cm 	
+Distance of plywood insert of actual printed bracket: .309 cm
+
+
+*In order to achieve a clean edge for the plywood to be inserted into the bracket, you may need to use pliers to get rid of the support material and use sandpaper to smooth down any remaining plastic.*  
 
 
 ### [Dimension Elite](http://www.stratasys.com/~/media/Main/Files/Machine_Spec_Sheets/PSS_FDM_DimElite.pdf?la=en)
