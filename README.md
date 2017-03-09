@@ -87,7 +87,7 @@ To be able to estimate the cost of producing one of the brackets using other man
 
 ## 3D Printing
 
-Each bracket was modeled in SolidWorks and then printed on a Dimension Elite FDM printer using ABS+ plastic. <!-- Insert settings -->
+Each bracket <!-- Add something about in the paper?--> was modeled in SolidWorks and then printed on a Dimension Elite FDM printer using ABS+ plastic. <!-- Insert settings -->
 
 Below are some guidelines to use when printing out a file using some common 3D printers:
 
@@ -133,4 +133,4 @@ Using the above settings, the estimated print time is 1 hour and 35 minutes. The
 
 Unlike the previous 3D printers, the Objet30Pro does not have as many options to change the density of the part or the layer height. This model was printed without a glossy finish.
 
-The estimated print time is 3 hours and 58 minutes. The materials usage is 27.0 grams of VeroGrey and 18.0 grams of support material. 
+The estimated print time is 3 hours and 58 minutes. The materials usage is 27.0 grams of VeroGrey and 18.0 grams of support material.
