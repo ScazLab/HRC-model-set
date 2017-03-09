@@ -121,4 +121,16 @@ Distance of plywood insert of actual printed bracket: .309 cm
 
 ### [Dimension Elite](http://www.stratasys.com/~/media/Main/Files/Machine_Spec_Sheets/PSS_FDM_DimElite.pdf?la=en)
 
-### [Objet 30](http://www.stratasys.com/3d-printers/design-series/objet30?cid=70130000001stsN&utm_ad=Objet30&utm_source=google&utm_term=objet30&utm_campaign=Search+-+US+-+Brand&utm_medium=cpc&utm_content=sDBnZ7UQ1_dc%7Cpcrid%7C102344693641%7Cpkw%7Cobjet30%7Cpmt%7Cp%7C&gclid=CJ2l8qOBu9ICFZCFswodHTwPbg)
+Layer Resolution: 0.0100
+Model Internal: Sparse- High Density
+Support Infill: SMART
+STL Units: mm
+
+Using the above settings, the estimated print time is 1 hour and 35 minutes. The materials usage is 0.80 in^3 of model material and 0.20 in^3 of support material.
+
+
+### [Objet 30Pro](http://www.stratasys.com/3d-printers/design-series/objet30?cid=70130000001stsN&utm_ad=Objet30&utm_source=google&utm_term=objet30&utm_campaign=Search+-+US+-+Brand&utm_medium=cpc&utm_content=sDBnZ7UQ1_dc%7Cpcrid%7C102344693641%7Cpkw%7Cobjet30%7Cpmt%7Cp%7C&gclid=CJ2l8qOBu9ICFZCFswodHTwPbg)
+
+Unlike the previous 3D printers, the Objet30Pro does not have as many options to change the density of the part or the layer height. This model was printed without a glossy finish.
+
+The estimated print time is 3 hours and 58 minutes. The materials usage is 27.0 grams of VeroGrey and 18.0 grams of support material. 
