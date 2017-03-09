@@ -48,6 +48,3 @@ DEPENDENCIES
   jekyll-feed (= 0.7.2)
   jekyll-seo-tag (= 2.0.0)
   jekyll-sitemap (= 0.11.0)
-
-BUNDLED WITH
-   1.12.5
