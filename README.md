@@ -158,8 +158,8 @@ Distance of plywood insert of actual printed bracket: .302 cm
 
 Using the above settings, the estimated print time is 1hour and 13 minutes. The material usage is 13.6 grams.
 
-Diameter specified in the SW File: .127 cm  
-Diameter of actual printed bracket: .122 cm
+Inner Diameter specified in the SW File: 1.27 cm  
+Inner Diameter of actual printed bracket: 1.22 cm
 
 Distance of plywood insert in the SW File: .318 cm 	
 Distance of plywood insert of actual printed bracket: .309 cm
@@ -182,8 +182,8 @@ STL Units: mm
 
 Using the above settings, the estimated print time is 1 hour and 35 minutes. The materials usage is 0.80 in^3 of model material and 0.20 in^3 of support material.
 
-Diameter specified in the SW File: .127 cm  
-Diameter of actual printed bracket: .126 cm
+Inner Diameter specified in the SW File: 1.27 cm  
+Inner Diameter of actual printed bracket: 1.26 cm
 
 Distance of plywood insert in the SW File: .318 cm 	
 Distance of plywood insert of actual printed bracket: .315 cm
@@ -198,8 +198,8 @@ Unlike the previous 3D printers, the Objet30Pro does not have as many options to
 
 The estimated print time is 3 hours and 58 minutes. The materials usage is 27.0 grams of VeroGrey and 18.0 grams of support material.
 
-Diameter specified in the SW File: .127 cm  
-Diameter of actual printed bracket: .126 cm
+Inner Diameter specified in the SW File: 1.27 cm  
+Inner Diameter of actual printed bracket: 1.26 cm
 
 Distance of plywood insert in the SW File: .318 cm 	
 Distance of plywood insert of actual printed bracket: .316 cm
