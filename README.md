@@ -78,6 +78,7 @@ Hardware | Amount
 `` #4 Screw .50"`` | 16
 
 ![Console](https://cloud.githubusercontent.com/assets/12373812/23683601/e2a5c1bc-0367-11e7-9647-fbce437b5b30.jpg)
+
 Hardware | Amount
 -------- | --------
 ``Top``| 4
