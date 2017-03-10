@@ -40,12 +40,56 @@ Below are renderings of each design along with a bill of materials.
 
 ![Table](https://cloud.githubusercontent.com/assets/12373812/23683629/0b698e6c-0368-11e7-8cdd-c7b93e4e4a9a.jpg)
 
+Hardware | Amount
+-------- | --------
+``Top``| 4
+``Foot``| 4
+``6" Dowel `` | 4
+``6" x 8" Plywood`` | 1
+`` #4 Screw .25"`` | 8
+`` #4 Screw .50"`` | 8
+
 ![Chair](https://cloud.githubusercontent.com/assets/12373812/23683588/d4976b34-0367-11e7-8ffe-7fc8ab9b6dd6.jpg)
+
+Hardware | Amount
+-------- | --------
+``Top``| 2
+``Foot``| 4
+``ChairL`` | 1
+``ChairR`` | 1
+``ChairBack``| 2
+``6" Dowel `` | 6
+``6.75" Dowel``| 1
+``6" x 8" Plywood`` | 1
+``6.75" x 2.5"`` | 1
+`` #4 Screw .25"`` | 12
+`` #4 Screw .50"`` | 14
 
 ![Shelf](https://cloud.githubusercontent.com/assets/12373812/23683615/f7b5769c-0367-11e7-9f4d-f1979abac6a7.jpg)
 
-![Console](https://cloud.githubusercontent.com/assets/12373812/23683601/e2a5c1bc-0367-11e7-9647-fbce437b5b30.jpg)
+Hardware | Amount
+-------- | --------
+``Top``| 4
+``Foot``| 4
+``Shelf90`` | 4
+``6" Dowel `` | 8
+``6" x 8" Plywood`` | 2
+`` #4 Screw .25"`` | 16
+`` #4 Screw .50"`` | 16
 
+![Console](https://cloud.githubusercontent.com/assets/12373812/23683601/e2a5c1bc-0367-11e7-9647-fbce437b5b30.jpg)
+Hardware | Amount
+-------- | --------
+``Top``| 4
+``Foot``| 8
+``Shelf90`` | 12
+``Shelf180`` | 4
+``Top180`` | 4
+``6" Dowel `` | 24
+``6" x 8" Plywood`` | 6
+``6" x 16" Plywood`` | 2
+`` #4 Screw .25"`` | 48
+`` #4 Screw .50"`` | 48
 
 
 ## CAD- 3D Modeling
@@ -55,7 +99,7 @@ With access to the SolidWorks files, making adjustments to fit plywood and dowel
 
 ![PlywoodThickness](https://cloud.githubusercontent.com/assets/12373812/23572174/50f8ab50-003b-11e7-9cb4-f687dbdad2df.PNG)
 
-To change the width of the insert for a piece of plywood of a different size, the model has been separated with a plane to extrude from. In the image above “Plane 3” is referenced off the face of the inside wall of the insert. By modifying the extrude feature “Boss-Extrude3” [**double check**] with the dimension of your piece of plywood, you will now have an insert that is compatible with your experiment. The rest of the features will update accordingly.
+To change the width of the insert for a piece of plywood of a different size, the model has been separated with a plane to extrude from. In the image above “Plane 3” is referenced off the face of the inside wall of the insert. By modifying the extrude feature “Boss-Extrude3” with the dimension of your piece of plywood, you will now have an insert that is compatible with your experiment. The rest of the features will update accordingly.
 
 ### Changing Dowel Diameter
 
@@ -128,6 +172,8 @@ Distance of plywood insert of actual printed bracket: .309 cm
 
 ### [Dimension Elite](http://www.stratasys.com/~/media/Main/Files/Machine_Spec_Sheets/PSS_FDM_DimElite.pdf?la=en)
 
+![WithSupport](https://cloud.githubusercontent.com/assets/12373812/23810655/77331124-05a0-11e7-95b7-20e54b15aa75.JPG)
+
 Layer Resolution: 0.0100  
 Model Internal: Sparse- High Density  
 Support Infill: SMART
@@ -135,9 +181,24 @@ STL Units: mm
 
 Using the above settings, the estimated print time is 1 hour and 35 minutes. The materials usage is 0.80 in^3 of model material and 0.20 in^3 of support material.
 
+Diameter specified in the SW File: .127 cm  
+Diameter of actual printed bracket: .126 cm
+
+Distance of plywood insert in the SW File: .318 cm 	
+Distance of plywood insert of actual printed bracket: .315 cm
+
+
 
 ### [Objet 30Pro](http://www.stratasys.com/3d-printers/design-series/objet30?cid=70130000001stsN&utm_ad=Objet30&utm_source=google&utm_term=objet30&utm_campaign=Search+-+US+-+Brand&utm_medium=cpc&utm_content=sDBnZ7UQ1_dc%7Cpcrid%7C102344693641%7Cpkw%7Cobjet30%7Cpmt%7Cp%7C&gclid=CJ2l8qOBu9ICFZCFswodHTwPbg)
+
+![WithSupport](https://cloud.githubusercontent.com/assets/12373812/23810630/5f09ac20-05a0-11e7-80ca-127fbf5938e9.JPG)
 
 Unlike the previous 3D printers, the Objet30Pro does not have as many options to change the density of the part or the layer height. This model was printed without a glossy finish.
 
 The estimated print time is 3 hours and 58 minutes. The materials usage is 27.0 grams of VeroGrey and 18.0 grams of support material.
+
+Diameter specified in the SW File: .127 cm  
+Diameter of actual printed bracket: .126 cm
+
+Distance of plywood insert in the SW File: .318 cm 	
+Distance of plywood insert of actual printed bracket: .316 cm
