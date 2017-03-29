@@ -57,8 +57,9 @@ Using the above settings, the estimated print time is 1 hour and 35 minutes. The
 Inner Diameter specified in the SW File: 1.27 cm  
 Inner Diameter of actual printed bracket: 1.26 cm
 
-Distance of plywood insert in the SW File: .318 cm 	
+Distance of plywood insert in the SW File: .318 cm 	  
 Distance of plywood insert of actual printed bracket: .315 cm
+![WithoutSupport](/images/3d_printed_parts/DimensionClean1.jpg)
 
 
 
@@ -75,3 +76,5 @@ Inner Diameter of actual printed bracket: 1.26 cm
 
 Distance of plywood insert in the SW File: .318 cm 	
 Distance of plywood insert of actual printed bracket: .316 cm
+
+![WithoutSupport](/images/3d_printed_parts/ObjetPrintClean2.jpg)
