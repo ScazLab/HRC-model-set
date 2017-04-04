@@ -8,8 +8,9 @@
 
 		<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic|Open+Sans:400,400italic,600,600italic,700,700italic|Inconsolata:400,700">
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css">
-		<link rel="scaz-lab-logo" href="{{ site.baseurl }}/scazlablogo.png">
-		<link rel="icon" type="image/png" href="{{ site.baseurl }}/scazlablogo.png" sizes="192x192">
+		<script src="https://use.fontawesome.com/14640617fd.js"></script>
+		<link rel="scaz-lab-logo" href="{{ site.baseurl }}/YaleRobotics_Logo_White.svg">
+		<link rel="icon" type="image/png" href="{{ site.baseurl }}/YaleRobotics_Logo_White.svg" sizes="192x192">
 
 		{% feed_meta %}
 		{% seo %}
@@ -30,9 +31,9 @@
 	<body>
 		<header>
 			<h1>
-				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/scaz-lab-logo.svg" width="40" height="40" alt="{{ site.title }} logo"></a>
+				<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/YaleRobotics_Logo_White.svg" width="40" height="40" alt="{{ site.title }} logo"></a>
 				{{ site.title }}
-				<button type="button" class="open-nav" id="open-nav"></button>
+				<button type="button" class="open-nav" id="open-nav">&#9776;</button>
 			</h1>
 
 			<form action="{{ site.baseurl }}/search/" method="get">
@@ -63,12 +64,27 @@
 					{% endfor %}
 				</ul>
 
-				<ul>
+				<!-- Not using the changelog for now -->
+				<!-- <ul>
 					<li class="nav-item top-level {% if page.url == '/changelog/' %}current{% endif %}">
 						{% assign changelog = site.html_pages | where: 'url', '/changelog/' | first %}
 						<a href="{{ site.baseurl }}/changelog/">{{ changelog.title }}</a>
 					</li>
+				</ul> -->
+
+				<ul>
+					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
+				   <a href="https://github.com/ScazLab/HRC-model-set">
+						 <i class="fa fa-github fa-lg"></i>
+					 </a>
+				  </li>
+					<li class="nav-item top-level {% if page.url == '/' %}current{% endif %}">
+						<a href="https://github.com/CloudCannon/edition-jekyll-template">
+							The Edition Template
+						</a>
+					</li>
 				</ul>
+
 			</nav>
 		</header>
 
