@@ -3,19 +3,19 @@
 
 title: HRC Model Set
 url: "https://scazlab.github.io/HRC-model-set/"
-baseurl:
+baseurl: "/HRC-model-set"
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /scazlablogo.png
 description: Documentation for the Human-Robot Collaboration Model Set
-author: 
+author:
   name: Sofya Zeylikman, Sarah Widder, Alessandro Roncone , Olivier Mangin and Brian Scassellati
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: 
+  name:
   links:
     - https://github.com/ScazLab/HRC-model-set
 
