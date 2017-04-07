@@ -3,9 +3,8 @@ title: 3D Printing Recommendations
 category: Information
 order: 2
 ---
-Each bracket <!-- Add something about in the paper?--> was modeled in SolidWorks and then printed on a Dimension Elite FDM printer using ABS+ plastic. <!-- Insert settings -->
 
-Below are some guidelines to use when printing out a file using some common 3D printers:
+The quality of the brackets printed using different 3D printing techniques can vary depending on which settings are used. Below are some guidelines to use when printing the brackets using common 3D printers. Each guide gives suggested settings, as well as images and dimensions of the printed pieces.
 
 *Each print is of the “Top” bracket for comparison.*
 
@@ -59,7 +58,7 @@ Inner Diameter of actual printed bracket: 1.26 cm
 
 Distance of plywood insert in the SW File: .318 cm 	  
 Distance of plywood insert of actual printed bracket: .315 cm
-![WithoutSupport](/images/3d_printed_parts/DimensionClean1.jpg)
+![WithoutSupport]({{ site.baseurl }}/images/3d_printed_parts/DimensionClean1.jpg)
 
 
 
@@ -77,4 +76,4 @@ Inner Diameter of actual printed bracket: 1.26 cm
 Distance of plywood insert in the SW File: .318 cm 	
 Distance of plywood insert of actual printed bracket: .316 cm
 
-![WithoutSupport](/images/3d_printed_parts/ObjetPrintClean2.jpg)
+![WithoutSupport]({{ site.baseurl }}/images/3d_printed_parts/ObjetPrintClean2.jpg)
