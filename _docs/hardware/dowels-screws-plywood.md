@@ -3,7 +3,6 @@ title: Dowels, Screws, Plywood
 category: Hardware
 order: 1
 ---
-## Hardware
 
 Exclusive of the 3D printed brackets, all of the hardware of the HRC Model Set can be found online, at a hardware store, or craft supply. Below are the hardware components along with a link to where you can purchase them.
 
