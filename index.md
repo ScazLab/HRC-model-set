@@ -13,6 +13,8 @@ It targets scenarios like the collaborative assembly of furniture, and consists 
 The model set aims at reducing the amount of work required to set up and reproduce HRC experiments.
 It is designed to be modular, extendable, and easy to distribute. All the content of this repository is distributed under the [Creative Commons attribution-sharealike 4.0 international public license (CC-by-sa)](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
+{% include video.html url='https://www.youtube.com/embed/09Zflg7ZzKU' %}
+<!-- <iframe width="640" height="360" src="https://www.youtube.com/embed/09Zflg7ZzKU" frameborder="0" allowfullscreen></iframe> -->
 ### Authors
  * **Sofya Zeylikman**, with the [Center for Engineering, Innovation and Design](http://ceid.yale.edu/), Yale University, New Haven, CT 06511, USA
  * **Sarah Widder**, **Alessandro Roncone**, **Olivier Mangin**, and **Brian Scassellati**, with the [Social Robotics Lab](http://scazlab.yale.edu/), Computer Science Department, Yale University, New Haven, CT 06511, USA
