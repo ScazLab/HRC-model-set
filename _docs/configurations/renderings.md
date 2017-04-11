@@ -9,7 +9,7 @@ Our designs range from the most simple, the Table configuration, to quite comple
 
 Below are renderings of each design along with a bill of materials.
 
-# Table
+## Table
 ![Table]({{ site.baseurl }}/images/configuration_renderings/TableAssemblyLight.jpg)
 
 Hardware | Amount
@@ -21,7 +21,7 @@ Foot| 4
 \#4 Screw .25" | 8
 \#4 Screw .50" | 8
 
-# Chair
+## Chair
 ![Chair]({{ site.baseurl }}/images/configuration_renderings/ChairAssemblyLight.jpg)
 
 Hardware | Amount
@@ -38,7 +38,7 @@ ChairBack| 2
 \#4 Screw .25" | 12
 \#4 Screw .50" | 14
 
-# Shelf
+## Shelf
 ![Shelf]({{ site.baseurl }}/images/configuration_renderings/ShelfAssemblyLight.jpg)
 
 Hardware | Amount
@@ -51,7 +51,7 @@ Shelf90 | 4
 \#4 Screw .25" | 16
 \#4 Screw .50" | 16
 
-# Console 
+## Console 
 ![Console]({{ site.baseurl }}/images/configuration_renderings/ShelfAssemblyLight.jpg)
 
 Hardware | Amount
