@@ -14,9 +14,7 @@ body {
 	line-height: 1.75em;
 	color: #3A4145;
 	font-weight: 400;
-	-webkit-font-feature-settings: 'kern' 1;
-	-moz-font-feature-settings: 'kern' 1;
-	-o-font-feature-settings: 'kern' 1;
+	font-kerning: normal;
 	text-rendering: geometricPrecision;
 }
 
@@ -31,9 +29,8 @@ label,
 select,
 textarea,
 table {
-	-webkit-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-	-moz-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
-	-o-font-feature-settings: 'dlig' 1, 'liga' 1, 'lnum' 1, 'kern' 1;
+	font-variant-ligatures: common-ligatures discretionary-ligatures;
+  font-variant-numeric: lining-nums;
 	font-family: "Open Sans", sans-serif;
 	text-rendering: geometricPrecision;
 }
