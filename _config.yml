@@ -15,7 +15,12 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  github: https://github.com/ScazLab/HRC-model-set
+  - title: github-alt
+    url: https://github.com/ScazLab/HRC-model-set
+  - title: youtube-play
+    url: https://www.youtube.com/watch?v=09Zflg7ZzKU&feature=youtu.be
+  - title: flask
+    url: https://github.com/CloudCannon/edition-jekyll-template
 
 # -----
 # Build

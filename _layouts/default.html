@@ -73,16 +73,11 @@
 				</ul> -->
 
 				<ul class="inline">
-          <li>
-            <a href="{% site.social.github %}">
-              <i class="fa fa-github fa-lg"></i>
-            </a>
-          </li>
-          <li>
-            <a href="https://github.com/CloudCannon/edition-jekyll-template">
-              <i class="fa fa-flask fa-lg"></i>
-            </a>
-          </li>
+				{% for network in site.social %}
+                <li>
+                    <a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }} fa-lg"></i></a>
+                </li>
+                {% endfor %}
 				</ul>
 
 			</nav>
