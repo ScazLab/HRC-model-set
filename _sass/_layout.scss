@@ -261,6 +261,15 @@ nav > ul {
 	}
 }
 
+
+ul.inline {
+  padding-left: $space;
+    li {
+      display: inline-block;
+      margin: 0 $space / 3;
+    }
+  }
+
 .settings-panel-example {
 	@extend p;
 	@include display-flex();
