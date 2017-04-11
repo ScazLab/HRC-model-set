@@ -15,9 +15,7 @@ author:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name:
-  links:
-    - https://github.com/ScazLab/HRC-model-set
+  github: https://github.com/ScazLab/HRC-model-set
 
 # -----
 # Build
