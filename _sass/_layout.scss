@@ -185,7 +185,7 @@ header {
 	h2 {
 		font-size: 2rem;
 		margin-left: -1px;
-		color: #888;
+		color: $light-text;
 		letter-spacing: 0;
 	}
 
@@ -321,7 +321,7 @@ h4 svg {
 	margin-right: 6px;
 	position: relative;
 	top: -2px;
-	fill: #2E2E2E;
+	fill: $dark-text;
 	height: 23px;
 }
 
@@ -388,7 +388,7 @@ h4 svg {
 	}
 
 	.date {
-		color: #888;
+		color: $light-text;
 		font-style: italic;
 	}
 }
