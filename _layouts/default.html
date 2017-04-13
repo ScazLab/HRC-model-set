@@ -11,6 +11,14 @@
 		<script src="https://use.fontawesome.com/14640617fd.js"></script>
     <link rel="icon" type="image/png" href="{{ site.baseurl }}/images/{{ site.icon }}">
 
+    <title>{{ site.title }}{% if page.title %} – {{ page.title }}{% endif %}</title>
+    {% if page.description %} {% assign description = page.description %}
+    {% elsif page.url == '/' %} {% assign description = site.description %}
+    {% endif %}
+    {% if description %}
+    <meta name="description" content="{{ description }}" />
+    {% endif %}
+
 		{% feed_meta %}
 		{% seo %}
 
