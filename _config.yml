@@ -8,7 +8,8 @@ google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /scazlablogo.png
+logo: yale-social-robotics-white.svg
+icon: yale-social-robotics-blue.png
 description: Documentation for the Human-Robot Collaboration Model Set
 author:
   name: Sofya Zeylikman, Sarah Widder, Alessandro Roncone , Olivier Mangin and Brian Scassellati
