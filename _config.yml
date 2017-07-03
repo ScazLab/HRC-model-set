@@ -17,6 +17,8 @@ author:
   twitter: # twitter username without the @ symbol
 social:
   - title: github-alt
+    url: https://github.com/ScazLab/baxter_collaboration
+  - title: github-alt
     url: https://github.com/ScazLab/HRC-model-set
   - title: youtube-play
     url: https://www.youtube.com/watch?v=09Zflg7ZzKU&feature=youtu.be
