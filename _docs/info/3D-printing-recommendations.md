@@ -12,32 +12,34 @@ The quality of the brackets printed using different 3D printing techniques can v
 
 
 #### 10mm layer height
+
 ![10mm](https://cloud.githubusercontent.com/assets/12373812/23683332/701683da-0366-11e7-8ba1-3ac8efa29b85.PNG)
 
 Using the above settings, the estimated print time is 2 hours and 12 minutes. The material usage is 15.11 grams.
 
-Diameter specified in the SW File: .127 cm  
+Diameter specified in the SW File: .127 cm
 Diameter of actual printed bracket: .123 cm
 
-Distance of plywood insert in the SW File: .318 cm 	
+Distance of plywood insert in the SW File: .318 cm
 Distance of plywood insert of actual printed bracket: .302 cm
 
 ![10print](https://cloud.githubusercontent.com/assets/12373812/23770608/afaff860-04e1-11e7-89b4-5f637e37c9e0.JPG)
 
 #### 20mm layer height
+
 ![20mm](https://cloud.githubusercontent.com/assets/12373812/23683341/7c1b8fb8-0366-11e7-82f6-870d0b399e3f.PNG)
 
 Using the above settings, the estimated print time is 1hour and 13 minutes. The material usage is 13.6 grams.
 
-Inner Diameter specified in the SW File: 1.27 cm  
+Inner Diameter specified in the SW File: 1.27 cm
 Inner Diameter of actual printed bracket: 1.22 cm
 
-Distance of plywood insert in the SW File: .318 cm 	
+Distance of plywood insert in the SW File: .318 cm
 Distance of plywood insert of actual printed bracket: .309 cm
 
 ![20print](https://cloud.githubusercontent.com/assets/12373812/23770588/9837019c-04e1-11e7-904c-8a529ec3e6c5.JPG)
 
-*In order to achieve a clean edge for the plywood to be inserted into the bracket, you may need to use pliers to get rid of the support material and use sandpaper to smooth down any remaining plastic.*  
+*In order to achieve a clean edge for the plywood to be inserted into the bracket, you may need to use pliers to get rid of the support material and use sandpaper to smooth down any remaining plastic.*
 
 ![sanded](https://cloud.githubusercontent.com/assets/12373812/23770600/a79328a0-04e1-11e7-8bd3-d68dca7c0e5d.JPG)
 
@@ -46,17 +48,17 @@ Distance of plywood insert of actual printed bracket: .309 cm
 
 ![WithSupport](https://cloud.githubusercontent.com/assets/12373812/23810655/77331124-05a0-11e7-95b7-20e54b15aa75.JPG)
 
-Layer Resolution: 0.0100  
-Model Internal: Sparse- High Density  
+Layer Resolution: 0.0100
+Model Internal: Sparse- High Density
 Support Infill: SMART
 STL Units: mm
 
 Using the above settings, the estimated print time is 1 hour and 35 minutes. The materials usage is 0.80 in^3 of model material and 0.20 in^3 of support material.
 
-Inner Diameter specified in the SW File: 1.27 cm  
+Inner Diameter specified in the SW File: 1.27 cm
 Inner Diameter of actual printed bracket: 1.26 cm
 
-Distance of plywood insert in the SW File: .318 cm 	  
+Distance of plywood insert in the SW File: .318 cm
 Distance of plywood insert of actual printed bracket: .315 cm
 ![WithoutSupport]({{ site.baseurl }}/images/3d_printed_parts/DimensionClean1.jpg)
 
@@ -70,10 +72,10 @@ Unlike the previous 3D printers, the Objet30Pro does not have as many options to
 
 The estimated print time is 3 hours and 58 minutes. The materials usage is 27.0 grams of VeroGrey and 18.0 grams of support material.
 
-Inner Diameter specified in the SW File: 1.27 cm  
+Inner Diameter specified in the SW File: 1.27 cm
 Inner Diameter of actual printed bracket: 1.26 cm
 
-Distance of plywood insert in the SW File: .318 cm 	
+Distance of plywood insert in the SW File: .318 cm
 Distance of plywood insert of actual printed bracket: .316 cm
 
 ![WithoutSupport]({{ site.baseurl }}/images/3d_printed_parts/ObjetPrintClean2.jpg)
