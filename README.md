@@ -3,6 +3,10 @@ _Model set for Human-Robot collaborative tasks_
 
 [![HRC Youtube](https://cloud.githubusercontent.com/assets/12373812/24922344/f9500516-1ebb-11e7-9aaf-9c50469bd2c8.png)](https://youtu.be/09Zflg7ZzKU)
 
+If you are using this hardware, its accompanying software and/or one of its components, we warmly recommend you to cite the following paper:
+
+  > [Zeylikman2018] Zeylikman Sofya, Widder Sarah, Roncone Alessandro, Mangin Olivier, Scassellati Brian **The HRC model set for human-robot collaboration research** *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Madrid, Spain. [[PDF]]() [[BIB]]()
+
 ## Introduction
 
 The human-robot collaboration (HRC) model set is intended to ease the design of human-robot collaboration experiments.
@@ -43,4 +47,4 @@ Our designs range from the most simple, the Table configuration, to quite comple
 
 Each bracket <!-- Add something about in the paper?--> was modeled in SolidWorks and then printed on a Dimension Elite FDM printer using ABS+ plastic. <!-- Insert settings -->
 
-[Here](https://scazlab.github.io/HRC-model-set/info/3D-printing-recommendations/) are some guidelines to use when printing out a file using some common 3D printers. 
+[Here](https://scazlab.github.io/HRC-model-set/info/3D-printing-recommendations/) are some guidelines to use when printing out a file using some common 3D printers.
