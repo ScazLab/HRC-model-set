@@ -15,7 +15,12 @@ It targets scenarios like the collaborative assembly of furniture, and consists 
 The model set aims at reducing the amount of work required to set up and reproduce HRC experiments.
 It is designed to be modular, extendable, and easy to distribute. All the content of this repository is distributed under the [Creative Commons attribution-sharealike 4.0 international public license (CC-by-sa)](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
+If you are using this hardware, its accompanying software and/or one of its components, we warmly recommend you to cite the following paper:
+
+  > [Zeylikman2018] Zeylikman Sofya, Widder Sarah, Roncone Alessandro, Mangin Olivier, Scassellati Brian **The HRC model set for human-robot collaboration research** *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Madrid, Spain. [[PDF]](https://alecive.github.io/papers/2018_Zeylikman_hrc_model_set.pdf) [[BIB]](https://alecive.github.io/papers/2018_Zeylikman_hrc_model_set.bib)
+
 ### Authors
+
  * **Sofya Zeylikman**, with the [Center for Engineering, Innovation and Design](http://ceid.yale.edu/), Yale University, New Haven, CT 06511, USA
  * **Sarah Widder**, **Alessandro Roncone**, **Olivier Mangin**, and **Brian Scassellati**, with the [Social Robotics Lab](http://scazlab.yale.edu/), Computer Science Department, Yale University, New Haven, CT 06511, USA
 
