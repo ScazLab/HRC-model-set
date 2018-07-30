@@ -5,7 +5,7 @@ _Model set for Human-Robot collaborative tasks_
 
 If you are using this hardware, its accompanying software and/or one of its components, we warmly recommend you to cite the following paper:
 
-  > [Zeylikman2018] Zeylikman Sofya, Widder Sarah, Roncone Alessandro, Mangin Olivier, Scassellati Brian **The HRC model set for human-robot collaboration research** *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Madrid, Spain. [[PDF]]() [[BIB]]()
+  > [Zeylikman2018] Zeylikman Sofya, Widder Sarah, Roncone Alessandro, Mangin Olivier, Scassellati Brian **The HRC model set for human-robot collaboration research** *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, Madrid, Spain. [[PDF]](https://alecive.github.io/papers/2018_Zeylikman_hrc_model_set.pdf) [[BIB]](https://alecive.github.io/papers/2018_Zeylikman_hrc_model_set.bib)
 
 ## Introduction
 
